@@ -1,4 +1,4 @@
-# Color Palette
+# Color Palette App
 
 Color Palette app created with React JS. User is able to choose different colors and preview that color.
 
